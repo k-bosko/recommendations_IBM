@@ -1,6 +1,9 @@
 # Article Recommendations on the IBM Watson Studio Platform
 
-In this project I analyzed the iteractions that users had with articles on the IBM Watson Studio platform, and made recommendations to them about new articles. 
+In this project I implemented different recommendation engines for users of the IBM Watson Studio platform.
+
+![IBM_DS_platform](assets/IBM_DS_platform.png)
+
 
 # Results
 Implemented 
